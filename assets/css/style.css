@@ -54,6 +54,12 @@ nav .right img {
     width: 20px;
 }
 
+.menu-bars {
+    padding: 15px;
+    width: 50px;
+    height: 45px;
+}
+
 .center .search {
     display: inline-flex;
     align-items: center;
@@ -149,7 +155,6 @@ nav .right img {
     width: 50px;
     height: 45px;
 }
-        
 
 .menu p {
     align-items: center;
@@ -171,6 +176,10 @@ nav .right img {
     margin-top: 20px;
     gap: 10px;
     width: 250px;
+}
+
+.views .video {
+    border-radius: 15px;
 }
 
 .text {
